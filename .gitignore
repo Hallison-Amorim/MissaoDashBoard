@@ -1,0 +1,16 @@
+# Ambientes (nunca versionar)
+.env
+.env.local
+.env.*.local
+
+# Dependências / builds / testes
+node_modules/
+dist/
+coverage/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
